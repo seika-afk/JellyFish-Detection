@@ -67,6 +67,5 @@ model = tf.keras.models.load_model("jellyfish_model.h5")
 
 - Add data augmentation
 - Use Transfer Learning (e.g., MobileNet, ResNet)
-- Object detection to localize jellyfish in frames
 
 
